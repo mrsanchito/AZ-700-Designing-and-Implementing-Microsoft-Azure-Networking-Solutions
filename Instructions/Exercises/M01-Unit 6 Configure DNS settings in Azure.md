@@ -61,7 +61,7 @@ In this exercise, you will:
     | Subscription                        | No changes required                     |
     | Virtual Network                     | CoreServicesVnet (ContosoResourceGroup) |
     | Enable auto registration            | Selected                                |
-    | Review your settings and select OK. |                                         |
+    | Review your settings and select Create. |                                         |
 
 1. Select **Refresh**.
 
